@@ -1,0 +1,19 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi,hello,hey
+bot : - Welcome to the Banking portal. [Ask me how I can help you] 
+user : - Help me out How can you help me?/how will you serve me?/help
+bot: - I clarify doubts regarding banking
+user : What is a moratorium ? what do you mean by moratorium ?
+bot : - Moratorium period refers to the period of time during which you do not have to pay an EMI on the loan taken. This period is also known as EMI holiday. Usually, such breaks are offered to help individuals facing temporary financial difficulties to plan their finances better.
+user : what is the interest rate ?
+bot : - The interest rate for gold loan is 8.7% ,topup loan is 11.2% ,vehicle loan is 6.3%,Student loan is 5.4%
+user : What are the loan periods available ? what is the loan repayment term?
+bot : - The loan term is 12 to 30 years, depending on the total amount borrowed. The monthly payment can be no less than 50% and no more than 150% of the monthly payment under the standard repayment plan. The monthly payment must be at least the interest that accrues, and must also be at least 4000Rs
+user : How do i repay then loan ? What mode do i use to payback loan
+bot : - You can either use your savings account to repay the loan or fill up the E-Mandate for timely deduction from your bank account
+user : How long does it take to process the loan? What is the loan processing period ?
+bot : - It takes 3 to 4 working days to process the loan
+user : thanks
+bot : - happy to help!
+user : Bye
+bot : - Bye. Nice talking to you

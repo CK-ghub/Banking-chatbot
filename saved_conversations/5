@@ -1,0 +1,21 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : koushikharshaanpranav
+bot : - Hello. How are you feeling today?
+user : Good
+bot : - I'm doing well. How are you feeling today?
+user : good
+bot : - I'm doing well. How are you feeling today?
+user : good
+bot : - I'm doing well. How are you feeling today?
+user : bad
+bot : - Bye. Nice talking to you
+user : hi
+bot : - Hello. How are you feeling today?
+user : ok
+bot : - Alright! How may I help you?
+user : Help me out/How can you help me?/how will you serve me?/help
+bot: - I clarify doubts regarding banking
+user : How much is the loan processing fee ? What is the loan processing fee ?
+bot: - The loan processing fee is /Rs450 only
+user : Thanks, thanks, ty
+bot: - always welcome

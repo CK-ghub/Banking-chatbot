@@ -1,0 +1,19 @@
+bot : Hi There! I am a banking chatbot. You can begin conversation by typing in a message and pressing enter.
+user : koushikharshaanpranav
+bot : - Hello. How are you feeling today?
+user : Good
+bot : - I'm doing well. How are you feeling today?
+user : good
+bot : - I'm doing well. How are you feeling today?
+user : good
+bot : - I'm doing well. How are you feeling today?
+user : bad
+bot : - Bye. Nice talking to you
+user : hi
+bot : - Hello. How are you feeling today?
+user : ok
+bot : - Alright! How may I help you?
+user : Help me out How can you help me?/how will you serve me?/help
+bot: - I clarify doubts regarding banking
+user: What is the minimum CIBIL requirement ?
+bot: - The minimum CIBIL requirement is 650
